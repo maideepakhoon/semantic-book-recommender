@@ -1,4 +1,4 @@
-📚 Semantic Book Recommender
+ 📚 Semantic Book Recommender
 
 ## Overview📌
 This project is a semantic book recommendation system that uses vector embeddings and large language models to return relevant books based on natural language queries.
